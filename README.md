@@ -1,5 +1,5 @@
 # 🗂️Sales_Capstone_Project-MasterClass💸
-This repository represents my **Sales Data Capstone Project**, completed as part of the **“Data Analysis Essentials using Google Colab Master Class”** offered by **Excelerate**. The project focuses on applying end-to-end data analytics techniques to uncover key business insights and revenue patterns.
+This repository represents my **Sales Data Capstone Project**, completed as part of the **“Data Analysis Essentials using Google Colab Master Class”** offered by **Excelerate** website(USA). The project focuses on applying end-to-end data analytics techniques to uncover key business insights and revenue patterns.
 
 # 📊 Project Overview
 
